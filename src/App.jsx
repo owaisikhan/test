@@ -123,5 +123,9 @@ export default App;
 // kucha add kiya
 // ab phir se add kiya
 
+// 5 + 4 = 9;
+// 5 + 9 = 2;
+
+// in 2nd
 // 2nd change
 // 123wadad
